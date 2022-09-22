@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * print_numbers - prints 0 through 9 with a new line.
- * @i: int for numbers
+ * print_numbers - prints 0 through 9 with a new line.s
  * Return: Always 0
  */
 
