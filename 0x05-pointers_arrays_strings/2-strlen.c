@@ -6,7 +6,7 @@
  *
  * Return: The length of @s.
  */
-int _strlen(char *s);
+int _strlen(char *s)
 {
 	int length = 0;
 
