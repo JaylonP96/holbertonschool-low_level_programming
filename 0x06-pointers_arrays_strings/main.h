@@ -1,8 +1,8 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef HOLBERTON_H
+#define HOLBERTON_H
 #include <unistd.h>
 /*
- * File: main.h
+ * File: holberton.h
  * Auth: Jaylon Phillips
  * Desc: Header file containing declarations for all functions
  *       used in the 0x06-pointers_arrays_strings directory.
