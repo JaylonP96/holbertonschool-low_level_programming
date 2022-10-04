@@ -1,7 +1,8 @@
 #include "holberton.h"
 
 /**
- * _strncpy - Copies at most an inputted number of bytes from string src into the dest
+ * _strncpy - Copies at most an inputted number
+ *            of bytes from string src into dest.
  * @dest: The buffer storing from the string copy.
  * @src: The source string.
  * @n: The max number of bytes to copy from src.
@@ -15,7 +16,7 @@ char *_strncpy(char *dest, char *src, int n)
 	while (src[i++])
 		src_len++;
 
-	for (i = 0; src[i] && i < n; i++
+	for (i = 0; src[i] && i < n; i++)
 		dest[i] = src[i];
 
 	for (i = src_len; i < n; i++)
