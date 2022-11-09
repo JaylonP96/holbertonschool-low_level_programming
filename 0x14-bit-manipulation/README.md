@@ -1,1 +1,1 @@
-read me for 0x14 project
+readme for 0x14 project
